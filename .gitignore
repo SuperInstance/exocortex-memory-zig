@@ -1,0 +1,29 @@
+# Zig
+zig-cache/
+zig-out/
+.zig-cache/
+build/
+*.o
+*.lib
+*.exe
+*.pdb
+*.ilk
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+credentials.*
+*.secret
+*.key
+*.pem
